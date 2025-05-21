@@ -1,3 +1,9 @@
+# ----------------------------
+# COMP9001 Final Project
+# Title: Mystic Forest
+# Author: Siyuan Ma
+# Run this file directly to start the program
+# ----------------------------
 import random
 import time
 
